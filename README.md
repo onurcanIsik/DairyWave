@@ -7,13 +7,14 @@
 
 
 
-![smartmockups_liq4bcfv](https://github.com/onurcanIsik/DairyWave/assets/84295038/f26bcee1-a627-42f7-ae92-39e3c133853e)
-![smartmockups_liq4btu3](https://github.com/onurcanIsik/DairyWave/assets/84295038/65dc0e5b-746a-4336-a0c4-9bc92a671622)
-![smartmockups_liq4c36c](https://github.com/onurcanIsik/DairyWave/assets/84295038/57ba24ea-3cb8-4e81-8688-27de49b4ed3e)
-![smartmockups_liq4cgnr](https://github.com/onurcanIsik/DairyWave/assets/84295038/94d34486-bf9f-4ac6-9eca-1ae2fe9f9ab7)
-![smartmockups_liq4cnyr](https://github.com/onurcanIsik/DairyWave/assets/84295038/fb4a2c0d-d45c-4958-bb12-e9a4f54f9d2b)
-![smartmockups_liq4cuen](https://github.com/onurcanIsik/DairyWave/assets/84295038/78181330-372a-4ae4-ae84-e4098557e62e)
-![smartmockups_liq4d7hv](https://github.com/onurcanIsik/DairyWave/assets/84295038/38fa3fd9-ff40-4425-bb9a-6116e089def6)
+![smartmockups_liq4bcfv](https://github.com/onurcanIsik/DairyWave/assets/84295038/486a3f59-d8a9-4d7b-8f6c-ff4f6aa87387)
+![smartmockups_liq4btu3](https://github.com/onurcanIsik/DairyWave/assets/84295038/38ec4dda-c5ea-4862-96e7-31e37554b506)
+![smartmockups_liq4c36c](https://github.com/onurcanIsik/DairyWave/assets/84295038/98cbf498-a882-462d-8fc2-1b303fc1ee24)
+![smartmockups_liq4cgnr](https://github.com/onurcanIsik/DairyWave/assets/84295038/5b8b8497-a3ce-4c8d-a35f-80efa0db7af9)
+![smartmockups_liq4cnyr](https://github.com/onurcanIsik/DairyWave/assets/84295038/c9286dc5-c2d0-44f4-8eec-544dd2840c3f)
+![smartmockups_liq4cuen](https://github.com/onurcanIsik/DairyWave/assets/84295038/f7df37ae-c8d2-473d-97ac-34731d944633)
+![smartmockups_liq4d7hv](https://github.com/onurcanIsik/DairyWave/assets/84295038/248f779e-1951-40aa-985d-08f17e8675b1)
+
 
 
 
